@@ -1,0 +1,31 @@
+body{
+    background-color: rgba(209, 209, 209, 0.726);
+}
+
+.heading{
+    background: rgba(195, 255, 220, 0.986);
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 10px 10px 10px rgba(195, 255, 220, 0.986);
+}
+
+.note{
+    font-size: 15px;
+    color: lightslategray;
+}
+.copy_right_footer{
+    position: fixed;
+    color: lightslategray;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(195, 255, 220, 0.986);
+    line-height: 3;
+    text-align: center;
+}
+
+canvas{
+    border: 5px solid aquamarine;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px rgba(195, 255, 220, 0.986);
+}
